@@ -58,6 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
+https://github.com/HoussemZorgui/AIBotSQL/issues/1#issue-2499542837
+
 ###
 
 <h3 align="left">Join Us on Our Journey</h3>
