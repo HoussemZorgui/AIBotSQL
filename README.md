@@ -58,23 +58,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+
+https://github.com/user-attachments/assets/9a080f8e-1d55-40b4-9d36-fa63ec4fe5f1
+
+
+
+
+
 
 <h3 align="left">Join Us on Our Journey</h3>
 
 ###
 
 <p align="left">We envision a future where database management is no longer a barrier to innovation. By leveraging artificial intelligence and cutting-edge technology, we aim to revolutionize the way developers interact with databases. Our ultimate goal is to foster a community of empowered developers who can focus on building remarkable applications without the burden of database complexities.</p>
-
-###
-
-<h3 align="center">📹 Watch Our Introduction Video</h3>
-
-<div align="center">
-  <a href="https://www.youtube.com/watch?v=PqKbnV_fpes">
-    <img src="https://img.youtube.com/vi/PqKbnV_fpes/0.jpg" alt="Watch the video" />
-  </a>
-</div>
 
 ###
 
