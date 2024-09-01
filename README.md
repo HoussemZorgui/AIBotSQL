@@ -68,14 +68,6 @@
 
 ###
 
-<h3 align="center">📹 Watch Our Introduction Video</h3>
-
-<div align="center">
-  [![Watch the video](https://img.youtube.com/vi/PqKbnV_fpes/0.jpg)](https://github.com/HoussemZorgui/AIBotSQL/raw/main/assets/a6ab3bcc-8620-4e1c-90f1-85fb6e24f053)
-</div>
-
-###
-
 <h3 align="center">📞 Contact Us</h3>
 
 ###
