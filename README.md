@@ -71,7 +71,9 @@
 <h3 align="center">📹 Watch Our Introduction Video</h3>
 
 <div align="center">
-  [![Watch the video](https://img.youtube.com/vi/PqKbnV_fpes/0.jpg)](https://www.youtube.com/watch?v=PqKbnV_fpes)
+  <a href="https://www.youtube.com/watch?v=PqKbnV_fpes">
+    <img src="https://img.youtube.com/vi/PqKbnV_fpes/0.jpg" alt="Watch the video" />
+  </a>
 </div>
 
 ###
