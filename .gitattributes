@@ -1,0 +1,6 @@
+*.js linguist-detectable=true
+*.py linguist-detectable=true
+*.dart linguist-detectable=true
+*.java linguist-detectable=true
+*.swift linguist-detectable=true
+*.kt linguist-detectable=true
