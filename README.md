@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">We are the Moonrakers and we are currently developing our ChatDB solution.</h3>
+<h3 align="center">We are the Moonrakers and we are currently developing our ChatDB solution.</h3> 
 
 ###
 
